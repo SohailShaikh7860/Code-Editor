@@ -1,9 +1,9 @@
 export const SUPPORTED_LANGUAGES = {
     javascript:"18.15.0",
-    typescript:"5.1.6",
-    python:"3.11.4",
-    java:"20",
-    php:"8.2",
+    typescript:"5.0.3",
+    python:"3.10.0",
+    java:"15.0.2",
+    php:"8.2.3",
 };
 
 export const codeSnippets = {
